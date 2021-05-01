@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JohnAileru
+- 👀 I’m interested in to become a web developer
+- 🌱 I’m currently learning Bite of Python book
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me, PM
